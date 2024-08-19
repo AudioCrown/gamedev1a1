@@ -1,4 +1,4 @@
-# James Sturm Games Pevolopment Portfolio
+# James Sturm Games Devolopment Portfolio
 
 ## Term 1 Projects
 
