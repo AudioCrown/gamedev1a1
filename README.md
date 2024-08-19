@@ -1,4 +1,5 @@
 # James Sturm Games Devolopment Portfolio
+First year in development student interested in graphic design
 
 ## Term 1 Projects
 
