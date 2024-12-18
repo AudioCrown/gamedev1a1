@@ -24,3 +24,6 @@ I was the main model designer for this semester making all the weapons here is a
 ![Screenshot 2024-09-25 at 7 50 23 AM](https://github.com/user-attachments/assets/2034e62c-735b-45db-b6c5-bea7deba9ed7)
 ![Screenshot 2024-09-25 at 8 04 11 AM](https://github.com/user-attachments/assets/5fea2ea5-71a9-4baa-8cbf-2bcc155dd4d5)
 ## There is a lot more of them I'm just going to keep it simple for now though
+
+# Industry Certifications 
+![Screenshot 2024-12-18 at 7 54 47 AM](https://github.com/user-attachments/assets/57c466fb-82be-4ef8-835d-ae7890b0e194)
