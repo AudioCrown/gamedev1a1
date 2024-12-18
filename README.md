@@ -8,7 +8,7 @@ First year in development student interested in graphic design
 
 ## Term 2 Projects
 
-[I'm an inline-style link](https://github.com/Error4984/The-Arkan-Project/tree/main/images)
+[I'm an inline-style link](https://github.com/Error4984/The-Arkan-Project/tree/main/images) This is the link to our Github page
 
 ## Email Information:
 Jamessturm@gmail.com or 9644879@graniteschools.org
