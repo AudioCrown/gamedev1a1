@@ -9,3 +9,6 @@ First year in development student interested in graphic design
 ## Term 2 Projects
 
 https://github.com/Error4984/The-Arkan-Project
+
+## Email Information:
+Jamessturm@gmail.com or 9644879@graniteschools.org
