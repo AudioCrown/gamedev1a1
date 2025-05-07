@@ -8,7 +8,7 @@ First year in development student interested in graphic design
 
 ## Term 2 Projects
 
-[I'm an inline-style link](https://github.com/Error4984/The-Arkan-Project/tree/main/images) This is the link to our Github page
+[I'm an inline-style link](https://github.com/Error4984/The-Arkan-Project-2) This is the link to our Github page
 
 ## Email Information:
 Jamessturm@gmail.com or 9644879@graniteschools.org
@@ -23,4 +23,5 @@ I was the main model designer for this semester making all the weapons here is o
 ## There is a lot more of them I'm just going to keep it simple for now though
 
 # Industry Certifications 
-![Screenshot 2024-12-18 at 7 54 47 AM](https://github.com/user-attachments/assets/57c466fb-82be-4ef8-835d-ae7890b0e194)
+
+![Screenshot 2025-05-07 at 7 45 47 AM](https://github.com/user-attachments/assets/6c03059e-e03d-4ce5-ad1e-243eba073ccf)
