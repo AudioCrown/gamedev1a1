@@ -16,9 +16,8 @@ Jamessturm@gmail.com or 9644879@graniteschools.org
 
 
 # Our main project this year -The Arkan Project-
-Link to the Github: https://github.com/Error4984/The-Arkan-Project
 My contribution to the group:
-I was the main model designer for this semester making all the weapons here is one of the few I made in blender
+I was the main model designer for this semester making all the weapons here is one of the few I made in blender ( it was only a few because I original made them in tinkercad but tinkercad doesn't translate well intoblender so it was just easier to remake them).
 ![Screenshot 2025-05-07 at 7 42 50 AM](https://github.com/user-attachments/assets/28536399-983a-46eb-968e-94fe0885e5c8)
 ## There is a lot more of them I'm just going to keep it simple for now though
 
